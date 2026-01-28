@@ -4,6 +4,11 @@
 
 > *Join the movement today and build PHPue Websites Today!*
 
+[![PHP 7.4+](https://img.shields.io/badge/PHP-7.4+-brightgreen.svg)](https://php.net)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Used by 400+](https://img.shields.io/badge/Users-400+-orange.svg)](https://phpue.co.uk)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg)](https://phpue.co.uk/)
+
 # Our Organisation's Links
 
 > Official PHPue's Website:

@@ -49,7 +49,7 @@
 
 # Apps Built in PHPue
 ## Our Analytics Platform
-[https://analytics.phpue.co.uk/][https://analytics.phpue.co.uk/]
+[https://analytics.phpue.co.uk/](https://analytics.phpue.co.uk/)
 
 # Author Information
 

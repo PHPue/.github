@@ -32,7 +32,7 @@
 [https://phpue.co.uk](https://github.com/PHPue/PHPue)
 
 > Official PHPue's Extensions:
-[https://github.com/PHPue/PHPue-Extensions][https://github.com/PHPue/PHPue-Extensions]
+[https://github.com/PHPue/PHPue-Extensions](https://github.com/PHPue/PHPue-Extensions)
 
 > Official PHPue's Syntax Highlighter
 [https://github.com/PHPue/PHPue-SyntaxHighlighter](https://github.com/PHPue/PHPue-SyntaxHighlighter)

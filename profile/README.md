@@ -6,7 +6,7 @@
 
 [![PHP 7.4+](https://img.shields.io/badge/PHP-7.4+-brightgreen.svg)](https://php.net)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Used by 1000+](https://img.shields.io/badge/Users-1000+-orange.svg)](https://phpue.co.uk)
+[![Used by 1200+](https://img.shields.io/badge/Users-1000+-orange.svg)](https://phpue.co.uk)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg)](https://phpue.co.uk/)
 
 # Our Organisation's Links
@@ -20,10 +20,19 @@
 > Official PHPue's Insight Hub:
 [https://phpue.co.uk/ue-insights](https://phpue.co.uk/ue-insights)
 
+> Official PHPue's Tutorials:
+[https://phpue.co.uk/ue-tutorials](https://phpue.co.uk/ue-tutorials)
+
+> Official PHPue's Extensions:
+[https://phpue.co.uk/ue-extensions](https://phpue.co.uk/ue-extensions)
+
 # Our Public Repositories
 
 > Official PHPue's Framework:
 [https://phpue.co.uk](https://github.com/PHPue/PHPue)
+
+> Official PHPue's Extensions:
+[https://github.com/PHPue/PHPue-Extensions][https://github.com/PHPue/PHPue-Extensions]
 
 > Official PHPue's Syntax Highlighter
 [https://github.com/PHPue/PHPue-SyntaxHighlighter](https://github.com/PHPue/PHPue-SyntaxHighlighter)
@@ -38,10 +47,17 @@
 > Official PHPue's Tutorials
 [https://phpue.co.uk/ue-tutorials](https://phpue.co.uk/ue-tutorials)
 
+# Apps Built in PHPue
+## Our Analytics Platform
+[https://analytics.phpue.co.uk/][https://analytics.phpue.co.uk/]
+
 # Author Information
 
 > Authors LinkedIn:
-[https://www.linkedin.com/in/edward-patch-msc-29458b38a/](https://www.patreon.com/c/PHPue)
+[Edward Patch Msc.](https://www.patreon.com/c/PHPue)
+
+> Find us on Facebook:
+[Facebook PHPue][https://www.facebook.com/profile.php?id=61585496711821]
 
 > Support us on Patreon:
 [https://www.patreon.com/c/PHPue](https://www.patreon.com/c/PHPue)

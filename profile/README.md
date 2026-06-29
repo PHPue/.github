@@ -57,7 +57,7 @@
 [Edward Patch Msc.](https://www.patreon.com/c/PHPue)
 
 > Find us on Facebook:
-[Facebook PHPue][https://www.facebook.com/profile.php?id=61585496711821]
+[Facebook PHPue](https://www.facebook.com/profile.php?id=61585496711821)
 
 > Support us on Patreon:
 [https://www.patreon.com/c/PHPue](https://www.patreon.com/c/PHPue)
